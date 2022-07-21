@@ -1,0 +1,12 @@
+img{
+    width: 400px;
+    height: 400px;
+    margin: 30px;
+}
+
+p{
+    text-align: justify;
+}
+button, form {
+    width: 100%;
+}

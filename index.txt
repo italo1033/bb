@@ -1,0 +1,11 @@
+    nome 
+    idioma 
+    autores
+    informações de publicação
+    descrição física
+    tipo de publicação
+    tipo de documento
+    termos do assunto
+    resumo 
+    isbn
+    Número de acesso 
